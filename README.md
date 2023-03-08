@@ -48,6 +48,8 @@
 </p>
 </details>
 
+---------
+
 ## 📜 Constant.swift
 
 ```swift
