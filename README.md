@@ -4,6 +4,23 @@
 
 - [X] Онбординг
 
+# Код
+
+```swift
+Image()
+  .resizable()
+  
+  .frame(width: 0, height: 0)
+  .frame(minWidth: 0, maxHeight: 0) // minWidth, maxWidth, maxWidth, maxHeight
+  
+  .aspectRatio(contentMode: .fit) // .fit, .fill
+  
+  .clipShape(Circle()) // Circle(), Capsule()
+  
+  .padding(.top) // .top, .bottom, .verticale, .horizontal
+  .padding(.top, 100)
+```
+
 # Предварительные настроки
 
 ### Отключение поворота экрана
