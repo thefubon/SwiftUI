@@ -29,7 +29,7 @@
 </p>
 </details>
 
-## 🖼️ Image Set
+# 🖼️ Image Set
 
 <details><summary>Assets</summary>
 <p>
@@ -122,6 +122,17 @@ extension Bundle {
 ```
 ## 📖 Документация
 [https://swiftontap.com](https://swiftontap.com)
+
+# Структура проектов
+
+- APP
+- View
+  - Home
+  - Detail
+- Data
+- Model
+- Extansion
+- Utility
 
 # ⚙️ Предварительные настроки
 
