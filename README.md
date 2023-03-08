@@ -29,7 +29,7 @@
 </p>
 </details>
 
-## 📜 Constant
+## 📜 Constant.swift
 
 ```swift
 import SwiftUI
