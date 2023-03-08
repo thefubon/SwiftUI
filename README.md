@@ -29,6 +29,95 @@
 </p>
 </details>
 
+## 📜 Constant
+
+```swift
+import SwiftUI
+
+// DATA
+
+let players: [Player] = Bundle.main.decode("player.json")
+let categories: [Category] = Bundle.main.decode("category.json")
+
+// COLOR
+
+let colorBackground: Color = Color("ColorBackground")
+let colorBackground: Color = Color(UIColor.systemGary4)
+
+// LAYOUT
+
+let columnSpacing: CGFloat = 10
+let rowSpacing: CGFloat = 10
+var gridLayout: [GridItem] {
+ return Array(repeating: GridItem(.flexible(), spacing: rowSpacing), count: 2)
+}
+```
+
+## CodableBundleExtension.swift
+
+```swift
+import Foundation
+
+extension Bundle {
+    func decode<T: Codable>(_ file: String) -> T {
+        // 1. Locate the JSON file
+        guard let url = self.url(forResource: file, withExtension: nil) else {
+            fatalError("Failed to locate \(file) in bundle.")
+        }
+        
+        // 2. Create a property for the data
+        guard let data = try? Data(contentsOf: url) else {
+            fatalError("Failed to load \(file) in bundle.")
+        }
+        
+        // 3. Create a decoder
+        let decoder = JSONDecoder()
+        
+        // 4. Create a property for the decoded data
+        guard let decodedData = try? decoder.decode(T.self, from: data) else {
+            fatalError("Failed to decode \(file) in bundle.")
+        }
+        
+        // 5. Return the ready-to-use data
+        return decodedData
+        
+    }
+}
+```
+
+## data.json
+
+```swift
+[
+    {
+        "id": 1,
+        "image": "Rectangle",
+        "title": "Page 1"
+    },
+    {
+        "id": 2,
+        "image": "Rectangle",
+        "title": "Page 2"
+    },
+    {
+        "id": 3,
+        "image": "Rectangle",
+        "title": "Page 3"
+    },
+    {
+        "id": 4,
+        "image": "Rectangle",
+        "title": "Page 4"
+    },
+    {
+        "id": 5,
+        "image": "Rectangle",
+        "title": "Page 5"
+    }
+]
+
+```
+
 ## 📖 Документация
 [https://swiftontap.com](https://swiftontap.com)
 
