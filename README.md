@@ -6,7 +6,7 @@
 
 # Код
 
-(https://swiftontap.com)[https://swiftontap.com]
+[https://swiftontap.com](https://swiftontap.com)
 
 ```swift
 Image()
