@@ -6,12 +6,14 @@
 
 # Код
 
+(https://swiftontap.com)[https://swiftontap.com]
+
 ```swift
 Image()
   .resizable()
   
   .frame(width: 0, height: 0)
-  .frame(minWidth: 0, maxHeight: 0) // minWidth, maxWidth, maxWidth, maxHeight
+  .frame(minWidth: 0, maxHeight: 0) // minWidth, maxWidth, minWidth, maxHeight
   
   .aspectRatio(contentMode: .fit) // .fit, .fill
   
