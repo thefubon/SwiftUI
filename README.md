@@ -5,7 +5,7 @@
 
 ## 📦 Скриншоты готовых проектов
 
-<details><summary>Onboarding</summary>
+<details><summary>Onboard</summary>
 <p>
   
 ![Onboard](https://user-images.githubusercontent.com/43171309/223706763-046765e1-f9b9-4b41-8f39-2508e633bc82.png)
