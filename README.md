@@ -119,21 +119,6 @@ extension Bundle {
         "id": 2,
         "image": "Rectangle",
         "title": "Page 2"
-    },
-    {
-        "id": 3,
-        "image": "Rectangle",
-        "title": "Page 3"
-    },
-    {
-        "id": 4,
-        "image": "Rectangle",
-        "title": "Page 4"
-    },
-    {
-        "id": 5,
-        "image": "Rectangle",
-        "title": "Page 5"
     }
 ]
 ```
