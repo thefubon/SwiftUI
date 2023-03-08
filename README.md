@@ -115,8 +115,21 @@ extension Bundle {
         "title": "Page 5"
     }
 ]
-
 ```
+
+## 🖼️ Assets
+
+<details><summary>Onboard</summary>
+<p>
+ 
+![AppIcon](https://user-images.githubusercontent.com/43171309/223767514-e9c5092a-2244-4b06-8948-2ba559fd70b0.png)
+![Logo](https://user-images.githubusercontent.com/43171309/223767522-ebcff971-ed00-4793-8c23-3cde10c2f688.png)
+![Rectangle](https://user-images.githubusercontent.com/43171309/223767526-e4662c27-622e-4656-8e87-82496b62ba21.png)
+![Square](https://user-images.githubusercontent.com/43171309/223767529-aebd04f3-2a6f-44bd-8ce5-da731d6d016a.png)
+
+  
+</p>
+</details>
 
 ## 📖 Документация
 [https://swiftontap.com](https://swiftontap.com)
