@@ -29,7 +29,7 @@
 </p>
 </details>
 
----------
+---
 
 <details><summary>Assets</summary>
 <p>
@@ -48,7 +48,7 @@
 </p>
 </details>
 
----------
+---
 
 ## 📜 Constant.swift
 
