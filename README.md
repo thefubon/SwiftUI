@@ -7,7 +7,9 @@
 
 <details><summary>layouts</summary>
 <p>
-![Layouts](https://user-images.githubusercontent.com/43171309/223706152-47c6b890-c540-4360-8987-dea8ed7fa63b.png)
+  
+![Layouts](https://user-images.githubusercontent.com/43171309/223706222-e472e4ef-3639-4e52-b9e4-a2159b187ef5.png)
+  
 </p>
 </details>
 
