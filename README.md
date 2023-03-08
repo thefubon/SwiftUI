@@ -1,3 +1,8 @@
 # SwiftUI
+Набор готовых компонентов SwiftUI
 
-<img width="846" alt="Снимок экрана 2023-03-08 в 10 03 12" src="https://user-images.githubusercontent.com/43171309/223642426-69ceafdb-03ef-4035-96d9-98e00644dc5d.png">
+- [X] Онбординг
+
+<img width="691" alt="001" src="https://user-images.githubusercontent.com/43171309/223675759-850abc0d-98e9-4f17-80ef-3ab0f07ee121.png">
+
+<img width="838" alt="002" src="https://user-images.githubusercontent.com/43171309/223675768-9bd2503a-bb35-4534-aad2-a5ebf4852e6a.png">
