@@ -31,7 +31,7 @@
 
 ---
 
-<details><summary>Assets</summary>
+<details><summary>Assets Images</summary>
 <p>
  
 ![AppIcon](https://user-images.githubusercontent.com/43171309/223767780-ce7871d7-8804-40ac-b72a-23170edb4916.png)
