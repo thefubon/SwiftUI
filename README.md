@@ -1,7 +1,5 @@
-![swiftui-96x96_2x](https://user-images.githubusercontent.com/43171309/223688205-88955424-8f23-438d-8c2e-24c222006c56.png)
-# SwiftUI
-
 ![hero-lockup-large_2x](https://user-images.githubusercontent.com/43171309/223688176-2e187cc8-1658-4264-9726-b907730f954c.png)
+# SwiftUI
 
 Набор готовых компонентов SwiftUI
 
