@@ -7,10 +7,7 @@
 
 <details><summary>layouts</summary>
 <p>
-
-![Simulator Screen Shot - iPhone 14 Pro - 2023-03-08 at 14 47 17](https://user-images.githubusercontent.com/43171309/223705532-c7009e72-4cbf-44b1-9018-f0f9f7b20526.png)
-
-
+![Layouts](https://user-images.githubusercontent.com/43171309/223706152-47c6b890-c540-4360-8987-dea8ed7fa63b.png)
 </p>
 </details>
 
