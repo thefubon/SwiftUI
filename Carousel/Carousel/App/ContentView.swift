@@ -9,9 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        
         ZStack {
-            Color(uiColor: .systemGray4)
+            Color.blue
                 .ignoresSafeArea(.all)
             
             VStack {
@@ -24,6 +23,5 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
-            .background(Color(UIColor.systemGray4))
     }
 }
