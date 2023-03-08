@@ -3,11 +3,19 @@
 
 Набор готовых компонентов SwiftUI
 
-- [X] Онбординг
+<details><summary>Onboarding</summary>
+<p>
+  
+![Onboard](https://user-images.githubusercontent.com/43171309/223706763-046765e1-f9b9-4b41-8f39-2508e633bc82.png)
+  
+</p>
+</details>
 
 <details><summary>layouts</summary>
-<p> 
+<p>
+  
 ![Layouts](https://user-images.githubusercontent.com/43171309/223706222-e472e4ef-3639-4e52-b9e4-a2159b187ef5.png)
+  
 </p>
 </details>
 
