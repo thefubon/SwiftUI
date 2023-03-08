@@ -3,7 +3,7 @@
 
 Набор готовых компонентов SwiftUI
 
-## 📦 Скриншоты готовых проектов
+# 📦 Скриншоты готовых проектов
 
 <details><summary>Carousel (data.json) 🆕</summary>
 <p>
@@ -48,7 +48,9 @@
 </p>
 </details>
 
-## 📜 Constant.swift
+# 📜 Использование .Json файлов
+
+### Constant.swift
 
 ```swift
 import SwiftUI
@@ -72,7 +74,7 @@ var gridLayout: [GridItem] {
 }
 ```
 
-## CodableBundleExtension.swift
+### CodableBundleExtension.swift
 
 ```swift
 import Foundation
@@ -104,7 +106,7 @@ extension Bundle {
 }
 ```
 
-## data.json
+### data.json
 
 ```swift
 [
@@ -120,7 +122,7 @@ extension Bundle {
     }
 ]
 ```
-## 📖 Документация
+# 📖 Документация
 [https://swiftontap.com](https://swiftontap.com)
 
 # Структура проектов
