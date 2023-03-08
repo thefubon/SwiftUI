@@ -1,27 +1,9 @@
 # SwiftUI
 
 Набор готовых компонентов SwiftUI
-
-- [X] Онбординг
-
-# Код
-
 [https://swiftontap.com](https://swiftontap.com)
 
-```swift
-Image()
-  .resizable()
-  
-  .frame(width: 0, height: 0)
-  .frame(minWidth: 0, maxHeight: 0) // minWidth, maxWidth, minWidth, maxHeight
-  
-  .aspectRatio(contentMode: .fit) // .fit, .fill
-  
-  .clipShape(Circle()) // Circle(), Capsule()
-  
-  .padding(.top) // .top, .bottom, .verticale, .horizontal
-  .padding(.top, 100)
-```
+- [X] Онбординг
 
 # Предварительные настроки
 
