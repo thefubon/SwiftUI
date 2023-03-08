@@ -29,6 +29,25 @@
 </p>
 </details>
 
+---------
+
+<details><summary>Assets</summary>
+<p>
+ 
+![AppIcon](https://user-images.githubusercontent.com/43171309/223767780-ce7871d7-8804-40ac-b72a-23170edb4916.png)
+![Logo](https://user-images.githubusercontent.com/43171309/223767781-42a6fd62-fd61-47c0-87df-af165020b257.png)
+<img width="220" alt="Logo@x2" src="https://user-images.githubusercontent.com/43171309/223767784-772b0611-a19b-438c-9455-9e2dc889103e.png">
+![Logo@x3](https://user-images.githubusercontent.com/43171309/223767790-8fffe254-29ac-4963-99e6-ab9bc5b2e138.png)
+![Rectangle](https://user-images.githubusercontent.com/43171309/223767793-c7e1926a-6540-4933-a6e9-4f312971eb6e.png)
+<img width="320" alt="Rectangle@x2" src="https://user-images.githubusercontent.com/43171309/223767796-68910712-db49-49e6-8fd7-8842d1023712.png">
+![Rectangle@x3](https://user-images.githubusercontent.com/43171309/223767797-b94e4938-9a83-459c-9536-e74092326afe.png)
+![Square](https://user-images.githubusercontent.com/43171309/223767802-f123220c-710c-40d2-850f-c121b07860e4.png)
+<img width="228" alt="Square@x2" src="https://user-images.githubusercontent.com/43171309/223767804-fbb5b071-5ea6-45ef-a267-fc757cf89150.png">
+![Square@x3](https://user-images.githubusercontent.com/43171309/223767806-bf235134-e3fe-4703-9848-0aae8f9db7c8.png)
+  
+</p>
+</details>
+
 ## 📜 Constant.swift
 
 ```swift
@@ -116,26 +135,6 @@ extension Bundle {
     }
 ]
 ```
-
-## 🖼️ Image Set
-
-<details><summary>Assets</summary>
-<p>
- 
-![AppIcon](https://user-images.githubusercontent.com/43171309/223767780-ce7871d7-8804-40ac-b72a-23170edb4916.png)
-![Logo](https://user-images.githubusercontent.com/43171309/223767781-42a6fd62-fd61-47c0-87df-af165020b257.png)
-<img width="220" alt="Logo@x2" src="https://user-images.githubusercontent.com/43171309/223767784-772b0611-a19b-438c-9455-9e2dc889103e.png">
-![Logo@x3](https://user-images.githubusercontent.com/43171309/223767790-8fffe254-29ac-4963-99e6-ab9bc5b2e138.png)
-![Rectangle](https://user-images.githubusercontent.com/43171309/223767793-c7e1926a-6540-4933-a6e9-4f312971eb6e.png)
-<img width="320" alt="Rectangle@x2" src="https://user-images.githubusercontent.com/43171309/223767796-68910712-db49-49e6-8fd7-8842d1023712.png">
-![Rectangle@x3](https://user-images.githubusercontent.com/43171309/223767797-b94e4938-9a83-459c-9536-e74092326afe.png)
-![Square](https://user-images.githubusercontent.com/43171309/223767802-f123220c-710c-40d2-850f-c121b07860e4.png)
-<img width="228" alt="Square@x2" src="https://user-images.githubusercontent.com/43171309/223767804-fbb5b071-5ea6-45ef-a267-fc757cf89150.png">
-![Square@x3](https://user-images.githubusercontent.com/43171309/223767806-bf235134-e3fe-4703-9848-0aae8f9db7c8.png)
-  
-</p>
-</details>
-
 ## 📖 Документация
 [https://swiftontap.com](https://swiftontap.com)
 
