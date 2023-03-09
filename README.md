@@ -13,7 +13,7 @@
 </p>
 </details>
 
-<details><summary>Carousel (data.json) 🆕</summary>
+<details><summary>Carousel (data.json)</summary>
 <p>
  
 ![Carousel](https://user-images.githubusercontent.com/43171309/223750860-29bd6cb8-b144-4a17-9e80-b4fd7d0caa0a.png)
