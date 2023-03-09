@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Москва",
+        "image": "Moscow"
+    },
+    {
+        "id": 2,
+        "name": "Санкт-Петербург",
+        "image": "Fubon"
+    },
+    {
+        "id": 3,
+        "name": "Новосибирск",
+        "image": "Fubon"
+    },
+    {
+        "id": 4,
+        "name": "Волгоград",
+        "image": "Fubon"
+    },
+    {
+        "id": 5,
+        "name": "Казань",
+        "image": "Fubon"
+    },
+    {
+        "id": 6,
+        "name": "Самара",
+        "image": "Fubon"
+    },
+    {
+        "id": 7,
+        "name": "Челябинск",
+        "image": "Fubon"
+    },
+    {
+        "id": 8,
+        "name": "Красноярск",
+        "image": "Fubon"
+    }
+]
