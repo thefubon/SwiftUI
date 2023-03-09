@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Text 1",
+        "image": "SquareOpacity",
+        "price": 199,
+        "description": "Description 1",
+        "color": [
+            0.61,
+            0.9,
+            0.34
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Text 2",
+        "image": "SquareOpacity",
+        "price": 299,
+        "description": "Description 2",
+        "color": [
+            0.35,
+            0.6,
+            0.21
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Text 3",
+        "image": "SquareOpacity",
+        "price": 399,
+        "description": "Description 3",
+        "color": [
+            0.27,
+            0.8,
+            0.89
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Text 4",
+        "image": "SquareOpacity",
+        "price": 499,
+        "description": "Description 4",
+        "color": [
+            0.78,
+            0.8,
+            0.89
+        ]
+    }
+]
