@@ -108,7 +108,7 @@ extension Bundle {
 
 ## 📂 Структура проектов
 
-- APP
+- App
 - View
   - Home
   - Detail
