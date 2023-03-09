@@ -39,7 +39,7 @@
 
 ## 🗒️ Использование .Json файлов
 
-### Model/model.swift
+### Model/NameModel.swift
 
 ```swift
 import Foundation
