@@ -39,7 +39,7 @@
 
 ## 🗒️ Использование .Json файлов
 
-### Constant.swift
+### Utility/Constant.swift
 
 ```swift
 import SwiftUI
@@ -63,7 +63,7 @@ var gridLayout: [GridItem] {
 }
 ```
 
-### CodableBundleExtension.swift
+### Extension/CodableBundleExtension.swift
 
 ```swift
 import Foundation
@@ -95,7 +95,7 @@ extension Bundle {
 }
 ```
 
-### data.json
+### Data/data.json
 
 ```swift
 [
