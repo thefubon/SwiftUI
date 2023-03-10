@@ -5,7 +5,15 @@
 
 ## 📦 Скриншоты готовых проектов
 
-<details><summary>Grid (data.json) 🆕</summary>
+<details><summary>CardGrid(data.json) 🆕</summary>
+<p>
+ 
+![CardGrid](https://user-images.githubusercontent.com/43171309/224280413-607959c6-4f50-47c1-8f28-8db059d117ae.png)
+
+</p>
+</details>
+
+<details><summary>Grid (data.json)</summary>
 <p>
  
 ![Grid](https://user-images.githubusercontent.com/43171309/224035487-36310ae5-ef58-492a-84f0-d8f97ef51711.png)
