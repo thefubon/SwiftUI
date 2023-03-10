@@ -18,8 +18,8 @@
         "price": 299,
         "description": "Description 2",
         "color": [
-            0.35,
-            0.6,
+            0.90,
+            0.34,
             0.21
         ]
     },
@@ -45,6 +45,54 @@
             0.78,
             0.8,
             0.89
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Text 5",
+        "image": "SquareOpacity",
+        "price": 599,
+        "description": "Description 5",
+        "color": [
+            0.15,
+            0.39,
+            0.84
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Text 6",
+        "image": "SquareOpacity",
+        "price": 699,
+        "description": "Description 6",
+        "color": [
+            0.73,
+            0.66,
+            0.13
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Text 7",
+        "image": "SquareOpacity",
+        "price": 799,
+        "description": "Description 7",
+        "color": [
+            0.45,
+            0.8,
+            0.76
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Text 8",
+        "image": "SquareOpacity",
+        "price": 899,
+        "description": "Description 8",
+        "color": [
+            0.80,
+            0.8,
+            0.148
         ]
     }
 ]

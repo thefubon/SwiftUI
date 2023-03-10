@@ -10,8 +10,15 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         ScrollView(.vertical, showsIndicators: false) {
-            VStack {
+            VStack(spacing: 0) {
                 TitleView(title: "Hello")
+                
+                LazyVGrid(columns: gridLayout, spacing: 15) {
+                    ForEach(products) { product in
+                        ProductItemView(product: product)
+                    }
+                }
+                .padding(15)
             }
         }
     }
