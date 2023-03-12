@@ -8,7 +8,7 @@
 <details><summary>SearchBar & Filter 🆕</summary>
 <p>
  
-![OffcanvasMenu](https://user-images.githubusercontent.com/43171309/224394200-649127dd-cd30-4b87-908a-dc666d6180f7.png)
+![SearchBar](https://user-images.githubusercontent.com/43171309/224548988-c6349e15-fb0b-4a5e-b1c2-415a6c91bd84.png)
 
 </p>
 </details>
