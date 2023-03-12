@@ -5,7 +5,7 @@
 
 ## 📦 Скриншоты готовых проектов
 
-<details><summary>SearchBar & Filter 🆕</summary>
+<details><summary>SearchBar & SearchFilter 🆕</summary>
 <p>
  
 ![SearchBar](https://user-images.githubusercontent.com/43171309/224548988-c6349e15-fb0b-4a5e-b1c2-415a6c91bd84.png)
