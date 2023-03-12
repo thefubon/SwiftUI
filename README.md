@@ -5,7 +5,15 @@
 
 ## 📦 Скриншоты готовых проектов
 
-<details><summary>OffcanvasMenu 🆕</summary>
+<details><summary>SearchBar & Filter 🆕</summary>
+<p>
+ 
+![OffcanvasMenu](https://user-images.githubusercontent.com/43171309/224394200-649127dd-cd30-4b87-908a-dc666d6180f7.png)
+
+</p>
+</details>
+
+<details><summary>OffcanvasMenu</summary>
 <p>
  
 ![OffcanvasMenu](https://user-images.githubusercontent.com/43171309/224394200-649127dd-cd30-4b87-908a-dc666d6180f7.png)
